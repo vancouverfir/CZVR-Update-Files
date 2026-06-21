@@ -119,25 +119,25 @@ Fixes:YAANO:name
 Fixes:YAANO:symbol
 Fixes:ZONUV:name
 Fixes:ZONUV:symbol
-Free Text:CYXX _X_RNAV_HE4_CYXX\/80 70/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\/90/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\30/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\50/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\60/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\70/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\/70 50/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\20/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\35/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\40/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\40/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\70/:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy09\/160 130/:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy09\/200:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy09\/200:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy09\/200:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy09\40/:freetext
-Free Text:CYYJ _X_RNAV_DISCO4_Rwy09\50/:freetext
-Free Text:CYYJ _X_RNAV_DISCO4_Rwy09\50/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\/80 70/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\/90/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\30/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\50/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\60/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\70/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\/70 50/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\20/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\35/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\70/:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy09\/160 130/:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy09\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy09\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy09\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy09\40/:freetext
+Free Text:CYYJ _X_RNAV_DISCO6_Rwy09\50/:freetext
+Free Text:CYYJ _X_RNAV_DISCO6_Rwy09\50/:freetext
 Geo:CYVR CYVR_MRVA_Altitudes:
 Geo:CYVR CYVR_MRVA_Sectors:
 Geo:CZVR CZVR_Coastline:
@@ -215,17 +215,17 @@ Runways:KBLI 16-34:extended centerline 1 left ticks
 Runways:KBLI 16-34:extended centerline 1 left vectoring
 Runways:KBLI 16-34:extended centerline 1 right ticks
 Runways:KBLI 16-34:extended centerline 1 right vectoring
-Sids:CYYJ SID 03 CYYJ5:
-Sids:CYYJ SID 09 CYYJ5:
-Sids:CYYJ SID 14 CYYJ5:
-Stars:CYXX STAR 07 HE4:
-Stars:CYXX STAR ALL MADEE4:
-Stars:CYYJ STAR 09 APASS6:
-Stars:CYYJ STAR 09 DISCO4:
-Stars:CYYJ STAR BOOTH APASS6:
-Stars:CYYJ STAR HE APASS6:
-Stars:CYYJ STAR KEINN APASS6:
-Stars:KBLI STAR 34 MADEE4:
+Sids:CYYJ SID 03 CYYJ6:
+Sids:CYYJ SID 09 CYYJ6:
+Sids:CYYJ SID 14 CYYJ6:
+Stars:CYXX STAR 07 HE5:
+Stars:CYXX STAR ALL MADEE6:
+Stars:CYYJ STAR 09 APASS8:
+Stars:CYYJ STAR 09 DISCO6:
+Stars:CYYJ STAR BOOTH APASS8:
+Stars:CYYJ STAR HE APASS8:
+Stars:CYYJ STAR KEINN APASS8:
+Stars:KBLI STAR 34 MADEE6:
 VORs:CVV:name
 VORs:CVV:symbol
 VORs:HUH:name

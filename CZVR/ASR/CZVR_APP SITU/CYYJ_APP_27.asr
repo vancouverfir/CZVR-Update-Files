@@ -101,26 +101,26 @@ Fixes:YAANO:name
 Fixes:YAANO:symbol
 Fixes:ZONUV:name
 Fixes:ZONUV:symbol
-Free Text:CYXX _X_RNAV_HE4_CYXX\/80 70/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\/90/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\30/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\50/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\60/:freetext
-Free Text:CYXX _X_RNAV_HE4_CYXX\70/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\/70 50/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\20/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\35/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\40/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\40/:freetext
-Free Text:CYXX _X_RNAV_MADEE4_CYXX\70/:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/160 130/:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/200:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/200:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/200:freetext
-Free Text:CYYJ _X_RNAV_APASS6_Rwy27\30/:freetext
-Free Text:CYYJ _X_RNAV_DISCO4_Rwy27\23/:freetext
-Free Text:CYYJ _X_RNAV_DISCO4_Rwy27\30/:freetext
-Free Text:CYYJ _X_RNAV_DISCO4_Rwy27\50/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\/80 70/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\/90/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\30/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\50/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\60/:freetext
+Free Text:CYXX _X_RNAV_HE5_CYXX\70/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\/70 50/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\20/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\35/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE6_CYXX\70/:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy27\/160 130/:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy27\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy27\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy27\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS8_Rwy27\30/:freetext
+Free Text:CYYJ _X_RNAV_DISCO6_Rwy27\23/:freetext
+Free Text:CYYJ _X_RNAV_DISCO6_Rwy27\30/:freetext
+Free Text:CYYJ _X_RNAV_DISCO6_Rwy27\50/:freetext
 Geo:CYVR CYVR_MRVA_Altitudes:
 Geo:CYVR CYVR_MRVA_Sectors:
 Geo:CZVR CZVR_AirspaceF_CYR:
@@ -199,19 +199,19 @@ Runways:KBLI 16-34:extended centerline 1 left ticks
 Runways:KBLI 16-34:extended centerline 1 left vectoring
 Runways:KBLI 16-34:extended centerline 1 right ticks
 Runways:KBLI 16-34:extended centerline 1 right vectoring
-Sids:CYYJ SID 27 MB8:
-Sids:CYYJ SID 32 CLOAK6:
-Sids:CYYJ SID 32 MB8:
-Sids:CYYJ SID KELNA MB8:
-Sids:CYYJ SID YVR MB8:
-Stars:CYXX STAR 07 HE4:
-Stars:CYYJ STAR 27 APASS6:
-Stars:CYYJ STAR 27 DISCO4:
-Stars:CYYJ STAR BOOTH APASS6:
-Stars:CYYJ STAR HE APASS6:
-Stars:CYYJ STAR KEINN APASS6:
-Stars:KBLI STAR 16 MADEE4:
-Stars:KBLI STAR 34 MADEE4:
+Sids:CYYJ SID 27 MB1:
+Sids:CYYJ SID 32 CLOAK7:
+Sids:CYYJ SID 32 MB1:
+Sids:CYYJ SID KELNA MB1:
+Sids:CYYJ SID YVR MB1:
+Stars:CYXX STAR 07 HE5:
+Stars:CYYJ STAR 27 APASS8:
+Stars:CYYJ STAR 27 DISCO6:
+Stars:CYYJ STAR BOOTH APASS8:
+Stars:CYYJ STAR HE APASS8:
+Stars:CYYJ STAR KEINN APASS8:
+Stars:KBLI STAR 16 MADEE6:
+Stars:KBLI STAR 34 MADEE6:
 VORs:CVV:name
 VORs:CVV:symbol
 VORs:HUH:name
