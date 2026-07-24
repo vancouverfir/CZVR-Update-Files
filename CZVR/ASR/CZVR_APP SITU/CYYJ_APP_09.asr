@@ -125,12 +125,12 @@ Free Text:CYXX _X_RNAV_HE5_CYXX\30/:freetext
 Free Text:CYXX _X_RNAV_HE5_CYXX\50/:freetext
 Free Text:CYXX _X_RNAV_HE5_CYXX\60/:freetext
 Free Text:CYXX _X_RNAV_HE5_CYXX\70/:freetext
-Free Text:CYXX _X_RNAV_MADEE6_CYXX\/70 50/:freetext
-Free Text:CYXX _X_RNAV_MADEE6_CYXX\20/:freetext
-Free Text:CYXX _X_RNAV_MADEE6_CYXX\35/:freetext
-Free Text:CYXX _X_RNAV_MADEE6_CYXX\40/:freetext
-Free Text:CYXX _X_RNAV_MADEE6_CYXX\40/:freetext
-Free Text:CYXX _X_RNAV_MADEE6_CYXX\70/:freetext
+Free Text:CYXX _X_RNAV_MADEE7_CYXX\/70 50/:freetext
+Free Text:CYXX _X_RNAV_MADEE7_CYXX\20/:freetext
+Free Text:CYXX _X_RNAV_MADEE7_CYXX\35/:freetext
+Free Text:CYXX _X_RNAV_MADEE7_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE7_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE7_CYXX\70/:freetext
 Free Text:CYYJ _X_RNAV_APASS8_Rwy09\/160 130/:freetext
 Free Text:CYYJ _X_RNAV_APASS8_Rwy09\/200:freetext
 Free Text:CYYJ _X_RNAV_APASS8_Rwy09\/200:freetext
@@ -219,13 +219,13 @@ Sids:CYYJ SID 03 CYYJ6:
 Sids:CYYJ SID 09 CYYJ6:
 Sids:CYYJ SID 14 CYYJ6:
 Stars:CYXX STAR 07 HE5:
-Stars:CYXX STAR ALL MADEE6:
+Stars:CYXX STAR ALL MADEE7:
 Stars:CYYJ STAR 09 APASS8:
 Stars:CYYJ STAR 09 DISCO6:
 Stars:CYYJ STAR BOOTH APASS8:
 Stars:CYYJ STAR HE APASS8:
 Stars:CYYJ STAR KEINN APASS8:
-Stars:KBLI STAR 34 MADEE6:
+Stars:KBLI STAR 34 MADEE7:
 VORs:CVV:name
 VORs:CVV:symbol
 VORs:HUH:name
