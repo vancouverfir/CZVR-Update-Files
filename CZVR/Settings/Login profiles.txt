@@ -220,7 +220,7 @@ ATIS2:Campbell River Flight Service Station "CAMPBELL RADIO"
 ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
 ATIS4:Allow for up to one minute on initial contact
 PROFILE:CYKA_F_TWR:50:4
-ATIS2:Kamloops Flight Service Station "HARDY RADIO"
+ATIS2:Kamloops Flight Service Station "KAMLOOPS RADIO"
 ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
 ATIS4:Allow for up to one minute on initial contact
 PROFILE:CYKA_DEL:10:2
